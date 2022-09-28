@@ -4,7 +4,7 @@
 
 Using Github Pages as a public hub for documentation. Our goal is to be transparent in our actions and decisions. GitHub pages allows us to do that and show versioning and updates on difficult decisions through the use of Git.<br />
 
-Feedback is always welcme by emailing [carolinaroom@cmlibrary.org](mailto:carolinaroom@cmlibrary.org).<br />
+Feedback is always welcome by emailing [carolinaroom@cmlibrary.org](mailto:carolinaroom@cmlibrary.org).<br />
 
 ## Sources & Credit
 This site is run on [Jekyll](https://jekyllrb.com/) with [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) theme.
